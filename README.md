@@ -14,6 +14,9 @@ This script is your go-to companion for testing wireless adapters. It checks wha
 - **AI Smarts**: Get tips and recommendations tailored to your adapter.
 - **Beginner-Friendly**: Clear menus, color-coded outputs, and step-by-step guidance.
 
+## Changelog
+- **Changelog**: See [CHANGELOG.md](CHANGELOG.md) for updates and version history.
+
 ## System Requirements
 - **Operating System**: Kali Linux (tested on Kali 2023.4 and later—perfect for hacking tools!).
 - **Root Access**: Run with `sudo` (you’ll need admin powers to tweak adapters).
@@ -211,7 +214,7 @@ Things not working? Don’t panic—here’s how to fix common hiccups.
   ```
   - Look for `hostapd` or driver errors.
 - **Beginner Tip**: If it’s your first time, test with a known adapter (like TP-Link TL-WN722N v1) to avoid headaches.
-
+ 
 ## Contributing
 Love this tool? Want to make it better? Here’s how:
 - **Fork It**: Click “Fork” on GitHub to get your own copy.
